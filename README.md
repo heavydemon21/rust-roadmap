@@ -6,11 +6,11 @@ This repository is my personal roadmap for learning Rust. It is structured into 
 
 ## **Steps Overview**
 
-1. **Language Syntax Exploration** ([Directory](./1-language-syntax)) (5 hours)
-2. **Rustlings Exercises** ([Directory](./2-rustlings)) (10 hours)
-3. **Advent of Code Problems** ([Directory](./3-advent-of-code)) (10 hours)
-4. **WebSocket Chat Client** ([Directory](./4-ws-chat-client)) (10 hours)
-5. **Small Project** ([Directory](./5-small-project)) (17 hours)
+1. **Language Syntax Exploration** ([Directory](./language-syntax)) (5 hours)
+2. **Rustlings Exercises** ([Directory](./rustlings)) (10 hours)
+3. **Advent of Code Problems** ([Directory](./advent-of-code)) (10 hours)
+4. **WebSocket Chat Client** ([Directory](./ws-chat-client)) (10 hours)
+5. **Small Project** ([Directory](./small-project)) (17 hours)
 
 ---
 
