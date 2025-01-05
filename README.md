@@ -4,7 +4,9 @@ This repository is my personal roadmap for learning Rust. It is structured into 
 
 ---
 
-## **Steps Overview**
+## **Steps Overview** (56 hours)
+
+these 5 steps will be followed in order. there is **4 hours** left over for extra time. 
 
 1. **Language Syntax Exploration** ([Directory](./language-syntax)) (5 hours)
 2. **Rustlings Exercises** ([Directory](./rustlings)) (10 hours)
