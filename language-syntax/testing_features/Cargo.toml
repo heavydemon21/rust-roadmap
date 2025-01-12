@@ -1,0 +1,9 @@
+[package]
+name = "testing_features"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# need to research more about local registry because this is ugly
+simple_marco_lib = { version = "0.1.0", path = "../simple_marco_lib" }
+
