@@ -14,7 +14,7 @@ fn calculate_difference(left: &[i64], right: &[i64]) -> i64 {
     answer
 }
 
-fn main() {
+pub fn part2() {
     let args: Vec<String> = env::args().collect();
     let file_path = &args[1];
     let contents = fs::read_to_string(file_path).expect("Should have read file");
@@ -40,10 +40,3 @@ fn main() {
     // answer from file.txt = 18934359
 }
 
-
-#[cfg(test)]
-mod tests {
-   
-    fn run_diff
-
-}
